@@ -1,4 +1,4 @@
-# Tsuno Multifunction Discord Bot
+# Tsuno Multifunction Discord Bot [Click here to invite Tsuno Bot](https://discord.com/oauth2/authorize?client_id=1258726161748463708)
 
 ## Overview
 
